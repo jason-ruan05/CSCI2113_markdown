@@ -1,12 +1,19 @@
 #Heading 1
 
-## Sub_hEading 
+## Sub_Heading 
+
+- lists
+- use
+- dashes
 
 And Here is some text@
 
 ```Java
 System.out.println("Hello!")
 ```
+
+We are going to debig with `println` statements.
+
 
 ## Installation (MacOS) 
 
