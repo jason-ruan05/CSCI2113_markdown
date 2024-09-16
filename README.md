@@ -10,6 +10,8 @@ System.out.println("Hello!")
 
 ## Installation (MacOS) 
 
+This is *itallic* and **This** is bold
+
 ## Installation (Windows)
 
 ## Installation (Linux)
